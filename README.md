@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing websites and developing android games and other apps.
 - 🌱 I’m currently learning how to use GitHub, how to design more advanced websites and develop android games and other apps.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: polyakeniko23@gmail.com.
+- 📫 How to reach me: polyakeniko23@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I really like cats, I have two.
 
