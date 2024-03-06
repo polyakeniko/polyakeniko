@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polyakeniko, I'm a student at Subotica Tech - College of Applied Sciences, currently studying informatics.
-- 👀 I’m interested in designing websites and developing android other apps.
+- 👀 I’m interested in designing websites and developing android apps.
 - 🌱 I’m currently learning how to use GitHub, how to design more advanced websites and develop android games and other apps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: polyakeniko23@gmail.com
